@@ -1,0 +1,67 @@
+h1{
+    text-align:center;
+    text-decoration-style:dashed;
+}
+body {
+    background-color:white;
+    font-family:'Segoe UI', sans-serif;
+    margin:0;
+    padding:0;
+    background-image:"https://www.ehpad-lamontagne.fr/wp-content/uploads/2020/06/2020-06-11-atelier-m%C3%A9moire-gentianes-1-Ehpad-public-la-montagne-chatillon-sur-chalaronne.jpg";
+  }
+  form #sf_submit{display:block; float:right; width:100px; font-size:12px; font-weight:bold; text-transform:uppercase; color:#FFFFFF; background-color:#ff524b; border:none; cursor:pointer;}
+  header {
+    background-color:grey;
+    color:white;
+    padding:20px;
+    text-align:center;
+    margin-bottom:30px;
+  }
+  .login-page {
+    max-width: 900px;
+  }
+  .form-section h2 {
+    color:lightblue;
+    justify-content: space-between;
+  }
+  .btn-primary {
+    background-color: royalblue;
+    border: none;
+  }
+  .btn-primary:hover {
+    background-color:lightgoldenrodyellow;
+  }
+  .image-section {
+    background-color: lightblue;
+  }
+
+  .image-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    justify-content: space-between;
+  }
+  fieldset {
+    border: 2px solid lightgoldenrodyellow;
+    border-radius: 10px;
+    padding: 30px;
+    background-color:lightgrey;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  legend {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: royalblue;
+    margin-bottom: 20px;
+  }
+  .form-wrapper {
+    max-width: 600px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+  }
+  .form-login {
+    background-color: gainsboro;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
